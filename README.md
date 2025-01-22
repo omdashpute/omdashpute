@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omdashpute&label=Profile%20views&color=0e75b6&style=flat" alt="omdashpute" /> </p>
 
-- 🔭 I’m currently working on **Gravity Flip**
+- 🔭 I’m currently working on **Virtual Visit to Indian Pilgrimages**
 
 - 🌱 I’m currently learning **Augmented Reality**
 
